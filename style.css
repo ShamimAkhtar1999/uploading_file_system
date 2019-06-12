@@ -1,0 +1,54 @@
+@charset "utf-8";
+#mid_div {
+	height: auto;
+	width: 500px;
+	position: relative;
+	top: 100px;
+	left: 30%;
+	float:left;
+}
+#mid_div fieldset {
+	text-align: center;
+	border-color: red;
+	padding: 0%;
+	font-size: 25px;
+	text-decoration: underline;
+	text-decoration-color:cyan;
+}
+
+fieldset #form1 .image_preview  {
+	text-align: center;
+	overflow:hidden;
+	float:left;
+	height: 4cm;
+	width: 3.5cm;
+	border: groove;
+	margin-left: 7em;
+	margin-top: 1em;
+}
+#form1
+{
+	height:auto;
+	width:100%;
+	float:left;	
+}
+.appli_info {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: cyan;
+	margin-top:10px;
+}
+.image_info
+{
+	height:auto;
+	width:100%;
+	border:1px black solid;
+	float:left;
+	margin-top : 10px;
+	
+}
+.success
+{
+	color:green;
+}
